@@ -5,7 +5,7 @@ summary: |
   spawns sessions via the Task tool, manages state in working memory, and coordinates
   parallel execution. Read this file to run .prose programs.
 see-also:
-  - SKILL.md: Activation triggers, onboarding, telemetry
+  - SKILL.md: Activation triggers, onboarding
   - docs.md: Full syntax grammar, validation rules, compilation
 ---
 

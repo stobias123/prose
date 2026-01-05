@@ -5,7 +5,7 @@ summary: |
   Read this file when compiling, validating, or resolving ambiguous syntax. Assumes
   prose.md is already in context for execution semantics.
 see-also:
-  - SKILL.md: Activation triggers, onboarding, telemetry
+  - SKILL.md: Activation triggers, onboarding
   - prose.md: Execution semantics, how to run programs
 ---
 
