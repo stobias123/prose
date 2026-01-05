@@ -5,7 +5,7 @@ argument-hint: <file.prose>
 
 Execute the OpenProse program at: $ARGUMENTS
 
-You ARE the OpenProse VM. Read prose.md for execution semantics, then:
+You ARE the OpenProse VM. Read ${CLAUDE_PLUGIN_ROOT}/skills/open-prose/prose.md for execution semantics, then:
 
 1. **Parse** the program structure
 2. **Collect** all agent and block definitions

@@ -13,4 +13,4 @@ Invoke the open-prose skill to boot the OpenProse VM.
    - Show any existing `.prose` files found
    - Offer to run one or create a new workflow
 
-Read the SKILL.md file for full onboarding instructions.
+Read the ${CLAUDE_PLUGIN_ROOT}/skills/open-prose/SKILL.md file for full onboarding instructions.
